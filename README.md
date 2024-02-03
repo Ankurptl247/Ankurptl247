@@ -1,7 +1,5 @@
 <h1> About Me:</h1>
 
-- 👋 Hi, I’m @Ankurptl247
-- 👀 I’m interested in learninig new things 
 - 🌱 I’m currently learning full-stack web dev
 - 💞️ I’m looking to collaborate on Full-stack projects
 - ⚡ Fun fact: i love creativity content.
